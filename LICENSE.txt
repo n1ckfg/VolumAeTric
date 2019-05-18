@@ -1,4 +1,4 @@
-KinectToVideo
+VolumAeTric
 Copyright (c) 2019 Nick Fox-Gieg Animation
 http://fox-gieg.com
 
